@@ -7,3 +7,5 @@ function doBugs(){
 function doTwonum(){
     console.log("Dosnum")
 }
+
+console.log("PRACT")
