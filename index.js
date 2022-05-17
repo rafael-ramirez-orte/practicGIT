@@ -4,3 +4,6 @@ function doSomenthing(){
 function doBugs(){
     console.log("Bugsssss")
 }
+function doTwonum(){
+    console.log("Dosnum")
+}
